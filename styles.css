@@ -1,0 +1,55 @@
+body
+{
+  background-color: AntiqueWhite;
+}
+hr
+{
+  border-style: dotted none none;
+  border-width: thick;
+  border-color: grey;
+  width: 10%;
+  height: 2px;
+}
+
+p
+{
+  color: black;
+}
+
+table
+{
+  color: black;
+}
+
+h1{
+  color: dodgerblue;
+}
+
+a:link
+{
+  color: black;
+}
+
+a:visited{
+  color: black;
+}
+
+a:hover{
+  color: dodgerblue
+}
+
+h2{
+  color: maroon;
+}
+
+.boring
+{
+  font-size: 36px;
+  font-weight: bold;
+}
+
+#Name{
+  font-size: 45px;
+  font-weight: bold;
+
+}
