@@ -1,9 +1,8 @@
-body
-{
-  background-color: AntiqueWhite;
+body {
+  background-color: whitesmoke;
 }
-hr
-{
+
+hr {
   border-style: dotted none none;
   border-width: thick;
   border-color: grey;
@@ -11,44 +10,40 @@ hr
   height: 2px;
 }
 
-p
-{
+p {
   color: black;
 }
 
-table
-{
+table {
   color: black;
 }
 
-h1{
-  color: dodgerblue;
-}
-
-a:link
-{
+h1 {
   color: black;
 }
 
-a:visited{
+a:link {
   color: black;
 }
 
-a:hover{
-  color: dodgerblue
+a:visited {
+  color: black;
 }
 
-h2{
-  color: maroon;
+a:hover {
+  color: black
 }
 
-.boring
-{
+h2 {
+  color: black;
+}
+
+.boring {
   font-size: 36px;
   font-weight: bold;
 }
 
-#Name{
+#Name {
   font-size: 45px;
   font-weight: bold;
 
